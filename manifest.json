@@ -1,0 +1,13 @@
+{
+    "name": "CloseMe",
+    "version": "1.0",
+    "description": "Auto closes those annoying Medium pop-ups asking you to sign up!",
+    "content_scripts": [
+        {
+            "matches": ["https://medium.com/*"],
+            "js": ["closeme.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "manifest_version": 2
+  }
