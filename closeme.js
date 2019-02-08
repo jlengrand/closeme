@@ -3,7 +3,7 @@ const storageKey = "popups_closed";
 
 const xhr = new XMLHttpRequest();
 xhr.onreadystatechange = () => {
-    console.log('Pop-up closed!');
+    // console.log('Pop-up closed!');
 }
 
 function updateAnalytics(){
@@ -14,10 +14,9 @@ function updateAnalytics(){
 
 function incrementClosed(){
     chrome.storage.sync.get([storageKey], (result) => {
-        console.log(result.popups_closed);
         const value = ((result.popups_closed === undefined) ? 0 : result.popups_closed) + 1;
         chrome.storage.sync.set({popups_closed : value} , () => {
-            console.log("value is " + value );
+            // console.log("value is " + value );
         });
     });
 }

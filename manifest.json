@@ -1,6 +1,7 @@
 {
     "name": "CloseMe",
     "version": "1.0",
+    "short_name": "CloseMe",
     "description": "Auto closes those annoying Medium pop-ups asking you to sign up!",
     "content_scripts": [
         {
