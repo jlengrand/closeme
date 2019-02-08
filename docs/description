@@ -1,0 +1,8 @@
+CloseMe is a simple open-source Chrome extension that will auto-close all the invasive pop-ups from the Medium website.
+
+Nothing to do, you just won't see them any more! Lovely, isn't it?!
+
+You can see the source of the extension here : https://github.com/jlengrand/closeme
+
+I am not collecting any data except the total amount of pop-ups closed using this extension :). Hopefully Medium will change its behavior one of those days.
+
