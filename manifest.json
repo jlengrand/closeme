@@ -9,5 +9,6 @@
             "run_at": "document_idle"
         }
     ],
+    "permissions": ["storage"],
     "manifest_version": 2
   }
