@@ -9,7 +9,10 @@
             "run_at": "document_idle"
         }
     ],
-    "permissions": ["storage"],
+    "permissions": [
+        "storage",
+        "https://medium.com/*"
+    ],
     "browser_action": {
         "default_popup": "popup.html",
         "default_title": "CloseMe autocloses all those annoying Medium ads for you!",

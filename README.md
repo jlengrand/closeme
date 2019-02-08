@@ -2,7 +2,16 @@
 
 **CloseMe** is a simple open-source Chrome extension that will auto-close all the invasive pop-ups from the [Medium](https://medium.com) website.
 
-They are slowly getting better, but are way to invasive. . . 
+Recognize this
+
+![medium invasion 1](https://www.dropbox.com/s/bgckxzsd4vdrpft/medium-invasion-1.png?dl=0)
+
+ or this?
+
+![medium invasion 2](https://www.dropbox.com/s/16don5rsq7xchte/medium-invasion-2.png?dl=0)
+
+
+Annoying, isn't it ? They are slowly getting better, but are way too invasive. . . 
 
 ## Usage
 
