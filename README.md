@@ -10,7 +10,6 @@ Recognize this
 
 ![medium invasion 2](./docs/images/medium-invasion-1.png)
 
-
 Annoying, isn't it ? They are slowly getting better, but are way too invasive. . . 
 
 ## Usage
