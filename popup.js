@@ -1,0 +1,8 @@
+const storageKey = "popups_closed";
+const elementId = "amount";
+
+chrome.storage.sync.get([storageKey], (result) => {
+    console.log(result.popups_closed);
+    const value = ((result.popups_closed === undefined) ? 0 : result.popups_closed);
+    document.getElementById(elementId).textContent = value;
+});

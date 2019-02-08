@@ -24,3 +24,7 @@ Ideas and Merge Requests are more than welcome!
 ## LICENSE
 
 See LICENSE for full text, but the license is [Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA)](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-sharealike-(cc-nc-sa)).
+
+## Resources
+
+* [Icon](https://www.flaticon.com/free-icon/cancel_128397#term=sign&page=1&position=59)
