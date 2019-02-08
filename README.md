@@ -4,11 +4,11 @@
 
 Recognize this
 
-![medium invasion 1](https://www.dropbox.com/s/bgckxzsd4vdrpft/medium-invasion-1.png?dl=0)
+![medium invasion 1](./docs/images/medium-invasion-1.png)
 
  or this?
 
-![medium invasion 2](https://www.dropbox.com/s/16don5rsq7xchte/medium-invasion-2.png?dl=0)
+![medium invasion 2](./docs/images/medium-invasion-1.png)
 
 
 Annoying, isn't it ? They are slowly getting better, but are way too invasive. . . 
